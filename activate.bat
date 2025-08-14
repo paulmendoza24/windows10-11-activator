@@ -4,6 +4,7 @@ title Windows 10 Activation Script
 
 echo ===============================
 echo   WINDOWS 10 ACTIVATION TOOL
+echo        By Paul Mendoza
 echo ===============================
 echo.
 echo Select Windows edition to activate:
